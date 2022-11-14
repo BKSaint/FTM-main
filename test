@@ -1,0 +1,153 @@
+<!--div class="row">
+    <div class="col">
+      <div class="dropdown">
+        <a class="btn btn-wavy dropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          Mani2Wavy
+        </a>
+        <div class="dropdown-menu p-2 text-muted" style="max-width: 200px;">
+          <a href=""><img class="media" src="instagram2.png" alt="Instagram"></a>
+          <a href=""><img class="media" src="youtube.png" alt="Youtube"></a>
+          <a href=""><img class="media" src="twitch.png" alt="Twitch"></a>
+          <a href=""><div class="container">
+          <a href=""><img class="media" src="twitter.png" alt="Twitter"></a>
+          <a href=""><img class="media" src="tiktok.png" alt="Tiktok"></div></a>
+        </div>
+      </div>
+    </div> 
+
+    <div class="col">
+      <div class="dropdown">
+        <a class="btn btn-wavy dropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          Member
+        </a>
+        <div class="dropdown-menu p-2 text-muted" style="max-width: 200px;">
+          <a href=""><img class="media" src="instagram2.png" alt="Instagram"></a>
+          <a href=""><img class="media" src="youtube.png" alt="Youtube"></a>
+          <a href=""><img class="media" src="twitch.png" alt="Twitch"></a>
+          <a href=""><div class="container">
+          <a href=""><img class="media" src="twitter.png" alt="Twitter"></a>
+          <a href=""><img class="media" src="tiktok.png" alt="Tiktok"></div></a>
+        </div>
+      </div>
+    </div>
+
+    <div class="col">
+      <div class="dropdown">
+        <a class="btn btn-wavy dropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          Member
+        </a>
+        <div class="dropdown-menu p-2 text-muted" style="max-width: 200px;">
+          <a href=""><img class="media" src="instagram2.png" alt="Instagram"></a>
+          <a href=""><img class="media" src="youtube.png" alt="Youtube"></a>
+          <a href=""><img class="media" src="twitch.png" alt="Twitch"></a>
+          <a href=""><div class="container">
+          <a href=""><img class="media" src="twitter.png" alt="Twitter"></a>
+          <a href=""><img class="media" src="tiktok.png" alt="Tiktok"></div></a>
+        </div>
+      </div>
+  </div>
+</div>
+
+<br><br><br><br><br>
+
+  <div class="row">
+    <div class="col">
+      <div class="dropdown">
+        <a class="btn btn-wavy dropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          Member
+        </a>
+        <div class="dropdown-menu p-2 text-muted" style="max-width: 200px;">
+          <a href=""><img class="media" src="instagram2.png" alt="Instagram"></a>
+          <a href=""><img class="media" src="youtube.png" alt="Youtube"></a>
+          <a href=""><img class="media" src="twitch.png" alt="Twitch"></a>
+          <a href=""><div class="container">
+          <a href=""><img class="media" src="twitter.png" alt="Twitter"></a>
+          <a href=""><img class="media" src="tiktok.png" alt="Tiktok"></div></a>
+        </div>
+      </div>
+    </div> 
+
+    <div class="col">
+      <div class="dropdown">
+        <a class="btn btn-wavy dropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          Member
+        </a>
+        <div class="dropdown-menu p-2 text-muted" style="max-width: 200px;">
+          <a href=""><img class="media" src="instagram2.png" alt="Instagram"></a>
+          <a href=""><img class="media" src="youtube.png" alt="Youtube"></a>
+          <a href=""><img class="media" src="twitch.png" alt="Twitch"></a>
+          <a href=""><div class="container">
+          <a href=""><img class="media" src="twitter.png" alt="Twitter"></a>
+          <a href=""><img class="media" src="tiktok.png" alt="Tiktok"></div></a>
+        </div>
+      </div>
+    </div>
+
+    <div class="col">
+      <div class="dropdown">
+        <a class="btn btn-wavy dropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          Member
+        </a>
+        <div class="dropdown-menu p-2 text-muted" style="max-width: 200px;">
+          <a href=""><img class="media" src="instagram2.png" alt="Instagram"></a>
+          <a href=""><img class="media" src="youtube.png" alt="Youtube"></a>
+          <a href=""><img class="media" src="twitch.png" alt="Twitch"></a>
+          <a href=""><div class="container">
+          <a href=""><img class="media" src="twitter.png" alt="Twitter"></a>
+          <a href=""><img class="media" src="tiktok.png" alt="Tiktok"></div></a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <br><br><br><br><br>
+
+  <div class="row">
+    <div class="col">
+      <div class="dropdown">
+        <a class="btn btn-wavy dropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          Member
+        </a>
+        <div class="dropdown-menu p-2 text-muted" style="max-width: 200px;">
+          <a href=""><img class="media" src="instagram2.png" alt="Instagram"></a>
+          <a href=""><img class="media" src="youtube.png" alt="Youtube"></a>
+          <a href=""><img class="media" src="twitch.png" alt="Twitch"></a>
+          <a href=""><div class="container">
+          <a href=""><img class="media" src="twitter.png" alt="Twitter"></a>
+          <a href=""><img class="media" src="tiktok.png" alt="Tiktok"></div></a>
+        </div>
+      </div>
+    </div> 
+
+    <div class="col">
+      <div class="dropdown">
+        <a class="btn btn-wavy dropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          Member
+        </a>
+        <div class="dropdown-menu p-2 text-muted" style="max-width: 200px;">
+          <a href=""><img class="media" src="instagram2.png" alt="Instagram"></a>
+          <a href=""><img class="media" src="youtube.png" alt="Youtube"></a>
+          <a href=""><img class="media" src="twitch.png" alt="Twitch"></a>
+          <a href=""><div class="container">
+          <a href=""><img class="media" src="twitter.png" alt="Twitter"></a>
+          <a href=""><img class="media" src="tiktok.png" alt="Tiktok"></div></a>
+        </div>
+      </div>
+    </div>
+
+    <div class="col">
+      <div class="dropdown">
+        <a class="btn btn-wavy dropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          Member
+        </a>
+        <div class="dropdown-menu p-2 text-muted" style="max-width: 200px;">
+          <a href=""><img class="media" src="instagram2.png" alt="Instagram"></a>
+          <a href=""><img class="media" src="youtube.png" alt="Youtube"></a>
+          <a href=""><img class="media" src="twitch.png" alt="Twitch"></a>
+          <a href=""><div class="container">
+          <a href=""><img class="media" src="twitter.png" alt="Twitter"></a>
+          <a href=""><img class="media" src="tiktok.png" alt="Tiktok"></div></a>
+        </div>
+      </div>
+    </div>
+  </div-->
